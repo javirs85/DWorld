@@ -242,7 +242,7 @@
 }
 
 .PaperSheet[b-88iau3txc9] {
-    background-image: url("/imgs/DW/PaperTexture.png");
+    background-image: url("imgs/DW/PaperTexture.png");
     height: 100%;
     width: 755px;
     min-width: 755px;
@@ -364,7 +364,7 @@ input[b-88iau3txc9] {
     }
 
 .MovementsArea[b-88iau3txc9] {
-    background-image: url("/imgs/DW/GreenBackground.png");
+    background-image: url("imgs/DW/GreenBackground.png");
     background-size: cover;
     height: 100%;
 }
