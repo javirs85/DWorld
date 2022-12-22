@@ -1,0 +1,219 @@
+﻿
+.simply-toast{
+    background-color: red;
+}
+
+.mainContainer {
+    height: 100vh;
+    background-color: #E5E5E5;
+}
+
+.blazored-toast{
+    animation: fadein 0.3s;
+}
+
+.CompaniesContainer {
+}
+
+.MainGameArea {
+}
+
+.PlayersColumn {
+    min-width: 220px;
+    width: 220px;
+    background-color: transparent;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: -5px;
+}
+
+.PlayersHand {
+    height: 192px;
+    margin-bottom: -60px;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    display: grid;
+    width:100%;
+    grid-template-columns: repeat(auto-fit, minmax(10px, max-content));
+}
+
+.GeneralSelectionCover{
+    background-color:rgb(0, 0, 0, 0.28);
+    width:100%;
+    height: 100vh;
+    z-index:10;
+ }
+.GeneralSelectableItem{
+    z-index:11;
+}
+.GeneralSelectedItem{
+    z-index:11;
+    border: 2px solid black;
+}
+
+.PlayersHand .VikingCard{
+    margin-left:-50px;
+}
+
+.LinkedInRow {
+    align-content: flex-start;
+}
+
+.VikingCard {
+    width: 145px;
+    height: 184px;
+    border-radius: 18px;
+    box-shadow: rgb(0 0 0 / 10%) 0px 4px 10px;
+    margin: 4px;
+    transition: all 0.3s ease-in;
+}
+
+.VikingCard.HandCard:hover {
+    margin-top: -5px;
+    z-index:4;
+}
+
+.VikingCard.HandCard.Selected {
+    border: 2px solid black;
+    margin-top: -28px;
+    height: 205px;
+}
+
+.VikingCard.HandCard.Rejected {
+    opacity: 0.8;
+}
+
+.VikingCard.HandCard.Selected.Leader {
+    border: 2px solid black;
+    margin-top: -45px;
+    height: 219px;
+}
+
+.VikingCard:hover {
+    cursor: pointer;
+    z-index: 2;
+    box-shadow: rgb(0 0 0 / 60%) 0px 4px 10px;
+}
+
+.LnkinIcon {
+    position: relative;
+    top: 39px;
+    left: 43px;
+    width: 59px;
+    height: 59px;
+}
+
+.slowAnim{
+    transition: background-image 3s !important;
+}
+
+
+.bg-Linkedin {
+    background-color: #151741;
+}
+bg-Chemistry { 
+    background-color: #BD1414; 
+}
+bg-Ing {
+    background-color: #1DA71D;
+}
+bg-Finances {
+    background-color: #C726D2;
+}
+bg-Research {
+    background-color: #E7821E;
+}
+bg-Clinic {
+    background-color: #2d40cc;
+}
+bg-Admin {
+    background-color: #313131;
+}
+bg-Review {
+    background-color: #7b7b7b;
+}
+
+.CardsLeft {
+    background-color: #F51616;
+    color: white;
+    font-family: 'Roboto';
+    height: 28px;
+    width: 28px;
+    border-radius: 14px;
+    position: relative;
+    top: -26px;
+    left: 83px;
+}
+
+*.unselectable {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.reviewsContainer {
+    height: 55px;
+}
+.review {
+    width: 41px;
+    height: 45px;
+    background-size: cover;
+    transition: all 3s;
+}
+
+.reviewDone {
+    background-image: url(imgs/reviewOK.png);
+    opacity:0.9;
+}
+.reviewToBeDone {
+    background-image: url(imgs/reviewMissing.png);
+}
+
+.infoContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    background-color: rgb(0, 0, 0, 0.46);
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor:pointer;
+}
+
+.infoMain {
+    z-index: 11;
+    width: 91%;
+    height: 90vh;
+    background-color: #0d0432;
+    color:white;
+    cursor:pointer;
+    pointer-events:none;
+}
+
+.racesList div{
+    padding: 20px;
+}
+
+.ServerInfoContainer {
+    overflow-y: auto;
+}
+
+.ServerInfoContainer p {
+    background-color: #f5f0dc;
+    font-size: 11px;
+    margin-bottom: 3px;
+    padding: 5px;
+}
+
+.FullscreenRequest
+{
+    height: 100vh;
+    width: 100%;
+
+}
