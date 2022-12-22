@@ -511,7 +511,7 @@ input[b-88iau3txc9] {
     font-family: 'Alegreya SC', serif;
 }
 .PaperSheet[b-9hpw311yh7] {
-    background-image: url("/imgs/DW/PaperTexture.png");
+    background-image: url("imgs/DW/PaperTexture.png");
     height: 100%;
     width: 755px;
     min-width: 755px;
@@ -617,7 +617,7 @@ input[b-9hpw311yh7] {
     }
 
 .MovementsArea[b-9hpw311yh7] {
-    background-image: url("/imgs/DW/GreenBackground.png");
+    background-image: url("imgs/DW/GreenBackground.png");
     background-size: cover;
     height: 100%;
 }
