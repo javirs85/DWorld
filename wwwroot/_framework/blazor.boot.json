@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Blazored.Toast.dll": "sha256-6cGnZ9WDP6hzM+ZRdvG+94hYjOke+bTjbJ5Xyawsp0M=",
-      "DungeonWorld.dll": "sha256-9ooNBzwanP\/5yt306irXwbOsqZSVFBp4o\/Th3wvJ9m8=",
+      "DungeonWorld.dll": "sha256-ZezivSsBJqZFINb44G2b3fmU278ZIFeAZxFlH44Yxts=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PZdmlXeiYNwyElvF6LKcBWT1zGiTz2LATsSmObQmCBA=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-WGOGIONUMpkF\/mB9pu91q15of72gUW7pmgJSFwJNOG4=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-hItIMIcIumfGi1q3IylwSEfpyLuK1QShnYCDeXYXF+M=",
@@ -45,7 +45,7 @@
       "System.Text.RegularExpressions.dll": "sha256-jfpP3K6PvxhZBgM5YXuqevzZUZ7ri86UHctScS1\/UGM=",
       "System.Threading.dll": "sha256-EICSyeK\/jSXqQMMx58U7fa2eMMQ6p9438kB0AqGZ0Tc=",
       "System.Web.HttpUtility.dll": "sha256-mqvqi2bHprCgNPIiCN99yWziud7WMCqvmn4sPFs0RDU=",
-      "VikingShared.dll": "sha256-cX\/OGZ4mEjII28+xmYCd\/8zIzfqd5kHUKkP4fjGhluw="
+      "VikingShared.dll": "sha256-NM+euLeZDZSiAFFZ3G3WiaxMi2h0KuWFlOtRuTHzV+A="
     },
     "extensions": null,
     "lazyAssembly": null,
