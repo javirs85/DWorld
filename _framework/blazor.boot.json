@@ -8,7 +8,7 @@
   "resources": {
     "assembly": {
       "Blazored.Toast.dll": "sha256-6cGnZ9WDP6hzM+ZRdvG+94hYjOke+bTjbJ5Xyawsp0M=",
-      "DungeonWorld.dll": "sha256-\/yxSxb0OROggwc0yBfKKshUOujnZ9MWNZfN1\/m5vZig=",
+      "DungeonWorld.dll": "sha256-Lq2v0FuGYMW47niXmryPx4lBfwfw6sTP6oyVTN0ePgI=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PZdmlXeiYNwyElvF6LKcBWT1zGiTz2LATsSmObQmCBA=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-WGOGIONUMpkF\/mB9pu91q15of72gUW7pmgJSFwJNOG4=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-hItIMIcIumfGi1q3IylwSEfpyLuK1QShnYCDeXYXF+M=",
